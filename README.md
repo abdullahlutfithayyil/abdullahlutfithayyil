@@ -1,4 +1,4 @@
-# Abdullah Lutfithayyil
+# Abdullah Lutfi Thayyil
 
 Graphic Designer & Frontend Developer
 
