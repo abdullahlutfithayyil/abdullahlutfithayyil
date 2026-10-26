@@ -6,7 +6,6 @@ I design and build clean, thoughtful digital experiences with a focus on interfa
 
 ## Portfolio
 - Website: https://abdullahlutfi.netlify.app/
-- GitHub: https://github.com/abdullahlutfithayyil
 
 ## Focus
 - UI design
