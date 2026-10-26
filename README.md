@@ -15,4 +15,4 @@ I design and build clean, thoughtful digital experiences with a focus on interfa
 - web experimentation
 
 ## Contact
-- GitHub: https://github.com/abdullahlutfithayyil
+lutfithayyil7309@gmail.com
